@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/JP_MAC/Projects/CoreTraining/DockerSample/DbRepository/DbRepository.csproj": {}
+  },
+  "projects": {
+    "/Users/JP_MAC/Projects/CoreTraining/DockerSample/DbRepository/DbRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/JP_MAC/Projects/CoreTraining/DockerSample/DbRepository/DbRepository.csproj",
+        "projectName": "DbRepository",
+        "projectPath": "/Users/JP_MAC/Projects/CoreTraining/DockerSample/DbRepository/DbRepository.csproj",
+        "packagesPath": "/Users/JP_MAC/.nuget/packages/",
+        "outputPath": "/Users/JP_MAC/Projects/CoreTraining/DockerSample/DbRepository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/JP_MAC/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

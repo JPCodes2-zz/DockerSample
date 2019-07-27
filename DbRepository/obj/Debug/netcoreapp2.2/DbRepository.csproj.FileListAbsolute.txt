@@ -1,0 +1,14 @@
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\bin\Debug\netcoreapp2.2\DbRepository.deps.json
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\bin\Debug\netcoreapp2.2\DbRepository.dll
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\obj\Debug\netcoreapp2.2\DbRepository.csprojAssemblyReference.cache
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\obj\Debug\netcoreapp2.2\DbRepository.csproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\obj\Debug\netcoreapp2.2\DbRepository.AssemblyInfoInputs.cache
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\obj\Debug\netcoreapp2.2\DbRepository.AssemblyInfo.cs
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\obj\Debug\netcoreapp2.2\DbRepository.csproj.CopyComplete
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\bin\Debug\netcoreapp2.2\DbRepository.runtimeconfig.json
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\bin\Debug\netcoreapp2.2\DbRepository.runtimeconfig.dev.json
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\bin\Debug\netcoreapp2.2\DbRepository.pdb
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\obj\Debug\netcoreapp2.2\DbRepository.dll
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\DbRepository\obj\Debug\netcoreapp2.2\DbRepository.pdb

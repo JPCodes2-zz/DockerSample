@@ -1,0 +1,9 @@
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\bin\Debug\ProductReaderService.dll
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\bin\Debug\DbRepository.dll
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\bin\Debug\ProductReaderService.pdb
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\bin\Debug\DbRepository.pdb
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\bin\Debug\ProductUpdateService.dll
+C:\Users\PRIME\Desktop\CoreTraining\DockerSample\bin\Debug\ProductUpdateService.pdb

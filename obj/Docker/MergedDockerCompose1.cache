@@ -1,0 +1,20 @@
+services:
+  productreaderservice:
+    build:
+      context: /Users/JP_MAC/Projects/CoreTraining/DockerSample
+      dockerfile: ProductReaderService/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: productreaderservice
+    ports:
+    - target: 80
+  productupdateservice:
+    build:
+      context: /Users/JP_MAC/Projects/CoreTraining/DockerSample
+      dockerfile: ProductUpdateService/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: productupdateservice
+    ports:
+    - target: 80
+version: '3.4'

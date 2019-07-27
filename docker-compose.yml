@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  productreaderservice:
+    image: ${DOCKER_REGISTRY-}productreaderservice
+    build:
+      context: .
+      dockerfile: ProductReaderService/Dockerfile
+
+  productupdateservice:
+    image: ${DOCKER_REGISTRY-}productupdateservice
+    build:
+      context: .
+      dockerfile: ProductUpdateService/Dockerfile
+
