@@ -12,7 +12,7 @@ namespace DbRepository.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=tcp:jpcoredb.database.windows.net,1433;Initial Catalog=DotNetCoreDb;Persist Security Info=False;User ID=jpadmin;Password=Jay@infy2;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+            optionsBuilder.UseSqlServer("");
             base.OnConfiguring(optionsBuilder);
         }
     }
